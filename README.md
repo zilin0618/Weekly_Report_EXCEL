@@ -1,7 +1,7 @@
 # Weekly_Report_EXCEL
 
 The dataset was obtained from two restaurants located in Shanghai, China. The dataset recorded their daily business information on the food delivery platforms, since the food delivery is one of the most popular ways of people getting their food.The objective of this project is to create an Excel weekly report to visualize the weekly business data and the overview of business. \
-In this project, functions such as 'sum', 'subtotal', 'sumif', 'sumifs', 'date', 'vlookup', 'index', and 'match' were used to do all the calculations. Functions of 'index' and 'match' were used primarily to automatically match the string of metrics on the report and then search on the source data. So that, the report can be done automatically for any weeks by changing the time slot. 
+In this project, functions such as 'sum', 'subtotal', 'sumif', 'sumifs', 'date', 'vlookup', 'index', and 'match' were used to do all the calculations. Functions of 'index' and 'match' were used primarily to automatically match the string of metrics on the report and then search on the source data. So that, the report can be done automatically for any weeks by changing the starting time. 
 
 Attribute Information:
 * 曝光人数: Numbers of people who looked the store on the app page
